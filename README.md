@@ -1,8 +1,10 @@
-**VMware Practical Labs –** 
+## **VMware Practical Labs –** 
 This repository contains VMware practical lab exercises focused on hands-on learning and real-time implementation of virtualization concepts using VMware vSphere / ESXi / vCenter.
 The labs are designed to build strong practical knowledge in virtual machine management, storage, networking, and troubleshooting, which are commonly used in enterprise environments.
 
-**What this repository covers:**
+## **Software Link:** https://drive.google.com/drive/folders/1njbUjmhA9q_JqM9A5BhIpGcTlkMFpH4R?usp=sharing
+
+ ## **What this repository covers:**
 Creation, configuration, and management of Virtual Machines
 ESXi host configuration and basic administration
 vCenter Server operations and centralized management
